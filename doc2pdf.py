@@ -33,6 +33,6 @@ def convert_all_docx_to_pdf(folder_path):
     print("Conversion completed.")
 
 # Example usage
-folder_path = r"S:\Users\L\Downloads\New folder (29)"
+folder_path = r"S:\Users\L\Downloads\OneDrive_4_10-12-2024"
 convert_all_docx_to_pdf(folder_path)
 
